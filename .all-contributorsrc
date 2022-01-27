@@ -4,6 +4,7 @@
   ],
   "imageSize": 100,
   "commit": false,
+  "badgeTemplate": "<a href='#contributors'><img src='https://img.shields.io/badge/contributors-<%= contributors.length %>-orange'></a>",
   "contributors": [
     {
       "login": "Ravanger101",
@@ -83,7 +84,8 @@
       ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 5,
+  "contributorsSortAlphabetically": true,
   "projectName": "DragonRealms",
   "projectOwner": "ProjectDragonRealms",
   "repoType": "github",
