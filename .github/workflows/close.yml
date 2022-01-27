@@ -1,0 +1,16 @@
+name: Issue Closed
+on:
+  issues:
+    types: ["closed"]
+jobs:
+  createCard:
+    runs-on: ["ubuntu-latest"]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@latest
+      - name: Create or Update Project Card
+        uses: peter-evans/create-or-update-project-card@latest
+        with:
+          token: ${{ secrets.TOKEN }}
+          project-name: Issues Management
+          column-name: Closed
