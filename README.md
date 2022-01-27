@@ -1,12 +1,9 @@
 <h1 align="center"><code>Dragon Realms</code></h1>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
   <a href="https://github.com/ProjectDragonRealms/DragonRealms"><img src="https://gpvc.arturio.dev/ProjectDragonRealms"></a> <!--Views-->
-  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-  <!-- ALL-CONTRIBUTORS-BADGE:END --> <!--Contributors-->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE:END --> <!--Contributors-->
   <a href="https://github.com/ProjectDragonRealms/DragonRealms/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ProjectDragonRealms/DragonRealms?color=black"></a> <!--License-->
   <a href="https://github.com/ProjectDragonRealms/DragonRealms/issues"><img src="https://img.shields.io/github/issues/ProjectDragonRealms/DragonRealms.svg"></a> <!--Issues-->
   <a href="https://github.com/ProjectDragonRealms/DragonRealms/stargazers"><img src="https://img.shields.io/github/stars/ProjectDragonRealms/DragonRealms"/></a> <!--Stars-->
