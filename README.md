@@ -1,4 +1,7 @@
 <h1 align="center"><code>Dragon Realms</code></h1>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
   <a href="https://github.com/ProjectDragonRealms/DragonRealms"><img src="https://gpvc.arturio.dev/ProjectDragonRealms"></a> <!--Views-->
@@ -27,6 +30,19 @@
 ## Contributors
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification ([emoji key](https://allcontributors.org/docs/en/emoji-key), [command Issue](https://github.com/ProjectDragonRealms/DragonRealms/issues/1)). [See what you can do to contribute](https://github.com/ProjectDragonRealms/DragonRealms/blob/master/CONTRIBUTING.md).
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://ravanger101.github.io/Dragon_Realms_Website/"><img src="https://avatars.githubusercontent.com/u/86346730?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Optimus Prime</b></sub></a><br /><a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=Ravanger101" title="Code">💻</a> <a href="#content-Ravanger101" title="Content">🖋</a> <a href="#design-Ravanger101" title="Design">🎨</a> <a href="#ideas-Ravanger101" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mentoring-Ravanger101" title="Mentoring">🧑‍🏫</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!--
 Bot command template:
