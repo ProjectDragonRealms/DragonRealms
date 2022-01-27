@@ -1,6 +1,6 @@
 <h1 align="center"><code>Dragon Realms</code></h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
@@ -37,6 +37,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   <tr>
     <td align="center"><a href="https://ravanger101.github.io/Dragon_Realms_Website/"><img src="https://avatars.githubusercontent.com/u/86346730?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Optimus Prime</b></sub></a><br /><a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=Ravanger101" title="Code">💻</a> <a href="#content-Ravanger101" title="Content">🖋</a> <a href="#design-Ravanger101" title="Design">🎨</a> <a href="#ideas-Ravanger101" title="Ideas, Planning, & Feedback">🤔</a> <a href="#mentoring-Ravanger101" title="Mentoring">🧑‍🏫</a></td>
     <td align="center"><a href="https://turnipguy30.github.io"><img src="https://avatars.githubusercontent.com/u/50542928?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JohnnySD</b></sub></a><br /><a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=TurnipGuy30" title="Code">💻</a> <a href="#content-TurnipGuy30" title="Content">🖋</a> <a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=TurnipGuy30" title="Documentation">📖</a> <a href="#design-TurnipGuy30" title="Design">🎨</a> <a href="#ideas-TurnipGuy30" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-TurnipGuy30" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-TurnipGuy30" title="Maintenance">🚧</a> <a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=TurnipGuy30" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GitHub Actions</b></sub></a><br /><a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=actions" title="Documentation">📖</a> <a href="#infra-actions" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-actions" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
