@@ -1,6 +1,6 @@
 <h1 align="center"><code>Dragon Realms</code></h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
@@ -41,6 +41,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GitHub Actions</b></sub></a><br /><a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=actions" title="Documentation">📖</a> <a href="#infra-actions" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-actions" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=all-contributors" title="Documentation">📖</a></td>
     <td align="center"><a href="https://sourcery.ai"><img src="https://avatars.githubusercontent.com/u/36609879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sourcery</b></sub></a><br /><a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=sourcery-ai" title="Code">💻</a></td>
+    <td align="center"><a href="https://discord.gg/MHEb6KMQp3"><img src="https://avatars.githubusercontent.com/u/79883837?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Val=fλ</b></sub></a><br /><a href="#design-Valensce" title="Design">🎨</a> <a href="#ideas-Valensce" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
