@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Ravanger101",
+      "name": "Optimus Prime",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86346730?v=4",
+      "profile": "https://ravanger101.github.io/Dragon_Realms_Website/",
+      "contributions": [
+        "code",
+        "content",
+        "design",
+        "ideas",
+        "mentoring"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "DragonRealms",
+  "projectOwner": "ProjectDragonRealms",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
