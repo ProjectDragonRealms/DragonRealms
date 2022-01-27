@@ -27,7 +27,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.TOKEN }}
-          user: Pokemon-PythonRed
+          user: ProjectDragonRealms
           template: classic
           plugin_introduction: yes
           plugin_introduction_title: no
