@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/ProjectDragonRealms/DragonRealms"><img src="https://gpvc.arturio.dev/ProjectDragonRealms"></a> <!--Views-->
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-  <a href='#contributors'><img src='https://img.shields.io/badge/contributors-17-orange'></a>
   <!-- ALL-CONTRIBUTORS-BADGE:END --> <!--Contributors-->
   <a href="https://github.com/ProjectDragonRealms/DragonRealms/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ProjectDragonRealms/DragonRealms?color=black"></a> <!--License-->
   <a href="https://github.com/ProjectDragonRealms/DragonRealms/issues"><img src="https://img.shields.io/github/issues/ProjectDragonRealms/DragonRealms.svg"></a> <!--Issues-->
@@ -27,7 +26,7 @@
 ---
 ## Contributors
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification ([emoji key](https://allcontributors.org/docs/en/emoji-key), [command Issue](https://github.com/ProjectDragonRealms/DragonRealms/issues/1). [See what you can do to contribute](https://github.com/ProjectDragonRealms/DragonRealms/blob/master/CONTRIBUTING.md).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification ([emoji key](https://allcontributors.org/docs/en/emoji-key), [command Issue](https://github.com/ProjectDragonRealms/DragonRealms/issues/1)). [See what you can do to contribute](https://github.com/ProjectDragonRealms/DragonRealms/blob/master/CONTRIBUTING.md).
 
 <!--
 Bot command template:
