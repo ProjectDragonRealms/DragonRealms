@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/main.yml"><img src="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/main.yml/badge.svg?branch=master"></a> <!--Main-->
-  <a href="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/open.yml"><img src="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/open.yml/badge.svg?branch=master"></a> <!--Open-->
-  <a href="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/close.yml"><img src="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/close.yml/badge.svg?branch=master"></a> <!--Close-->
+  <a href="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/main.yml"><img src="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/main.yml/badge.svg?branch=main"></a> <!--Main-->
+  <a href="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/open.yml"><img src="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/open.yml/badge.svg?branch=main"></a> <!--Open-->
+  <a href="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/close.yml"><img src="https://github.com/ProjectDragonRealms/DragonRealms/actions/workflows/close.yml/badge.svg?branch=main"></a> <!--Close-->
 </p>
 
 ---
