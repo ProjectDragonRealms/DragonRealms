@@ -3,7 +3,9 @@
   "commit": false,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": true,
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "projectName": "DragonRealms",
   "projectOwner": "ProjectDragonRealms",
@@ -11,91 +13,100 @@
   "repoType": "github",
   "skipCi": true,
   "contributors": [
-      {
-        "login": "Ravanger101",
-        "name": "Optimus Prime",
-        "avatar_url": "https://avatars.githubusercontent.com/u/86346730?v=4",
-        "profile": "https://ravanger101.github.io/Dragon_Realms_Website/",
-        "contributions": [
-          "code",
-          "content",
-          "design",
-          "ideas",
-          "mentoring"
-        ]
-      },
-      {
-        "login": "TurnipGuy30",
-        "name": "JohnnySD",
-        "avatar_url": "https://avatars.githubusercontent.com/u/50542928?v=4",
-        "profile": "https://turnipguy30.github.io",
-        "contributions": [
-          "code",
-          "content",
-          "doc",
-          "design",
-          "ideas",
-          "infra",
-          "maintenance",
-          "test"
-        ]
-      },
-      {
-        "login": "dependabot",
-        "name": "Dependabot",
-        "avatar_url": "https://avatars.githubusercontent.com/u/27347476?v=4",
-        "profile": "https://github.com/features/security",
-        "contributions": [
-          "infra"
-        ]
-      },
-      {
-        "login": "actions",
-        "name": "GitHub Actions",
-        "avatar_url": "https://avatars.githubusercontent.com/u/44036562?v=4",
-        "profile": "https://github.com/features/actions",
-        "contributions": [
-          "doc",
-          "infra",
-          "maintenance"
-        ]
-      },
-      {
-        "login": "all-contributors",
-        "name": "All Contributors",
-        "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
-        "profile": "https://allcontributors.org",
-        "contributions": [
-          "doc"
-        ]
-      },
-      {
-        "login": "sourcery-ai",
-        "name": "Sourcery",
-        "avatar_url": "https://avatars.githubusercontent.com/u/36609879?v=4",
-        "profile": "https://sourcery.ai",
-        "contributions": [
-          "code"
-        ]
-      },
-      {
-        "login": "Valensce",
-        "name": "Val=fλ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/79883837?v=4",
-        "profile": "https://discord.gg/MHEb6KMQp3",
-        "contributions": [
-          "design",
-          "ideas"
-        ]
-      },
-      {
-        "login": "hacking-mudkip",
-        "name": "hacking-mudkip",
-        "avatar_url": "https://avatars.githubusercontent.com/u/81336967?v=4",
-        "profile": "https://apple.com/",
-        "contributions": [
-          "ideas"
-        ]
-      }
+    {
+      "login": "Ravanger101",
+      "name": "Optimus Prime",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86346730?v=4",
+      "profile": "https://ravanger101.github.io/Dragon_Realms_Website/",
+      "contributions": [
+        "code",
+        "content",
+        "design",
+        "ideas",
+        "mentoring"
+      ]
+    },
+    {
+      "login": "TurnipGuy30",
+      "name": "JohnnySD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50542928?v=4",
+      "profile": "https://turnipguy30.github.io",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "design",
+        "ideas",
+        "infra",
+        "maintenance",
+        "test"
+      ]
+    },
+    {
+      "login": "dependabot",
+      "name": "Dependabot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27347476?v=4",
+      "profile": "https://github.com/features/security",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "actions",
+      "name": "GitHub Actions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44036562?v=4",
+      "profile": "https://github.com/features/actions",
+      "contributions": [
+        "doc",
+        "infra",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "sourcery-ai",
+      "name": "Sourcery",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36609879?v=4",
+      "profile": "https://sourcery.ai",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Valensce",
+      "name": "Val=fλ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79883837?v=4",
+      "profile": "https://discord.gg/MHEb6KMQp3",
+      "contributions": [
+        "design",
+        "ideas"
+      ]
+    },
+    {
+      "login": "hacking-mudkip",
+      "name": "hacking-mudkip",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81336967?v=4",
+      "profile": "https://apple.com/",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "kbrose",
+      "name": "Kevin Rose",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4053170?v=4",
+      "profile": "https://github.com/kbrose",
+      "contributions": [
+        "tool"
+      ]
+    }
   ]
 }
