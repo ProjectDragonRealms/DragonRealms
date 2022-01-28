@@ -77,7 +77,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/36609879?v=4",
       "profile": "https://sourcery.ai",
       "contributions": [
-        "code"
+        "code",
+        "tool"
       ]
     },
     {
@@ -105,6 +106,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/4053170?v=4",
       "profile": "https://github.com/kbrose",
       "contributions": [
+        "code",
         "tool"
       ]
     },
@@ -124,6 +126,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/1948812?v=4",
       "profile": "https://github.com/DonJayamanne",
       "contributions": [
+        "code",
         "tool"
       ]
     },
