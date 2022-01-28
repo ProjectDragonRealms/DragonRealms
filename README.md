@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/ProjectDragonRealms/DragonRealms"><img src="https://gpvc.arturio.dev/ProjectDragonRealms"></a> <!--Views-->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<a href='https://github.com/ProjectDragonRealms/DragonRealms#contributors'><img src='https://img.shields.io/badge/contributors-9-orange'></a>
+<a href='https://github.com/ProjectDragonRealms/DragonRealms#contributors'><img src='https://img.shields.io/badge/contributors-10-orange'></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END --> <!--Contributors-->
   <a href="https://github.com/ProjectDragonRealms/DragonRealms/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ProjectDragonRealms/DragonRealms?color=black"></a> <!--License-->
   <a href="https://github.com/ProjectDragonRealms/DragonRealms/issues"><img src="https://img.shields.io/github/issues/ProjectDragonRealms/DragonRealms.svg"></a> <!--Issues-->
@@ -42,6 +42,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <td align="center"><a href="https://sourcery.ai"><img src="https://avatars.githubusercontent.com/u/36609879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sourcery</b></sub></a><br /><a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=sourcery-ai" title="Code">💻</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://trunk.io"><img src="https://avatars.githubusercontent.com/u/74779146?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Trunk</b></sub></a><br /><a href="https://github.com/ProjectDragonRealms/DragonRealms/commits?author=trunk-io" title="Code">💻</a> <a href="#tool-trunk-io" title="Tools">🔧</a></td>
     <td align="center"><a href="https://discord.gg/MHEb6KMQp3"><img src="https://avatars.githubusercontent.com/u/79883837?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Val=fλ</b></sub></a><br /><a href="#design-Valensce" title="Design">🎨</a> <a href="#ideas-Valensce" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://apple.com/"><img src="https://avatars.githubusercontent.com/u/81336967?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hacking-mudkip</b></sub></a><br /><a href="#ideas-hacking-mudkip" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>

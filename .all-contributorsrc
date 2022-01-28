@@ -107,6 +107,16 @@
       "contributions": [
         "tool"
       ]
+    },
+    {
+      "login": "trunk-io",
+      "name": "Trunk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74779146?v=4",
+      "profile": "https://trunk.io",
+      "contributions": [
+        "code",
+        "tool"
+      ]
     }
   ]
 }
