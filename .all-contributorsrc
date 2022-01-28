@@ -126,6 +126,17 @@
       "contributions": [
         "tool"
       ]
+    },
+    {
+      "login": "microsoft",
+      "name": "Microsoft",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6154722?v=4",
+      "profile": "https://opensource.microsoft.com",
+      "contributions": [
+        "code",
+        "plugin",
+        "tool"
+      ]
     }
   ]
 }
