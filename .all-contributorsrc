@@ -117,6 +117,15 @@
         "code",
         "tool"
       ]
+    },
+    {
+      "login": "donjayamanne",
+      "name": "Don Jayamanne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1948812?v=4",
+      "profile": "https://github.com/DonJayamanne",
+      "contributions": [
+        "tool"
+      ]
     }
   ]
 }
